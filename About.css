@@ -15,7 +15,6 @@
   grid-template-columns: repeat(1, 100%);
   min-height: 1056px;
   grid-auto-columns: 100%;
-  grid-gap: 0px;
 }
 
 .u-section-1 .u-list-item-1 {
